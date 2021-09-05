@@ -9,12 +9,13 @@
 - 👯 I’m looking to collaborate on Open Source
 
 ### Connect with Me
-    <a href="https://www.linkedin.com/in/rupeshsharma137/">
-      <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-    </a>
-    <a href="https://twitter.com/rupesh1115">
-      <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    </a>
+
+<a href="https://www.linkedin.com/in/rupeshsharma137/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/rupesh1115">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 ### About Me
 - I’m experienced professional who is looking to contribute to open source to help the community and connect with people </br>
 - I am passionate about building scalable systems. </br>
