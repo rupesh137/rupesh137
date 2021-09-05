@@ -4,7 +4,7 @@
 **rupesh137/rupesh137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working in an organization where we building scalable platform to help small MSME's
+- 🔭 I’m currently working in an organization where we building scalable no code platform to help small MSME's
 - 🌱 I’m currently learning System Design
 - 👯 I’m looking to collaborate on Open Source
 
