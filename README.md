@@ -16,6 +16,9 @@
 <a href="https://twitter.com/rupesh1115">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="http://rupeshsharma137.wordpress.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
+</a>
 <br />
 
 ### About Me
