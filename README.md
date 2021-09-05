@@ -19,6 +19,10 @@
 <a href="http://rupeshsharma137.wordpress.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
 </a>
+<a href="https://resume.creddle.io/resume/1jr7ne3jh5t">
+  <img align="left" width="26px" src="https://img.icons8.com/ios/50/000000/resume.png" />
+</a>
+
 <br />
 
 ### About Me
