@@ -7,7 +7,8 @@
 - 🔭 I’m currently working in an organization where we building scalable platform to help small MSME's
 - 🌱 I’m currently learning System Design
 - 👯 I’m looking to collaborate on Open Source
-- 📫 How to reach me: 
+
+### Connect with Me
     <a href="https://www.linkedin.com/in/rupeshsharma137/">
       <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
     </a>
@@ -22,3 +23,8 @@
 - [Product Lead at Wonderlendhubs](https://wonderlendhubs.com/) - Worked on building scalable no code platform which will help lenders, MSME's for loan managment.
 - [Senior Software Engineer at ViralTech Pvt Ltd](https://www.viraltech.in/) -  Integrated many systems with payment gateway. Built a no code payment collection platform for origanizations like schools, colleges etc.
 - [Software Engineer at XL-Dynamics](https://www.xldynamics.com/) - Worked on loan origination system.
+
+
+![Rupesh's github stats](https://github-readme-stats.vercel.app/api?username=rupesh137&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rupesh137.rupesh137)
