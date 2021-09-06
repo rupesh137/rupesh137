@@ -17,7 +17,7 @@
 <a href="https://twitter.com/rupesh1115">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="http://rupeshsharma137.wordpress.com">
+<a href="https://rupeshsharma137.wordpress.com/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
 </a>
 <a href="https://resume.creddle.io/resume/1jr7ne3jh5t">
