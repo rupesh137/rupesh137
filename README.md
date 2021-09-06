@@ -5,7 +5,8 @@
 -->
 
 - 🔭 I’m currently working in an organization where we building scalable no code platform to help small MSME's
-- 🌱 I’m currently learning System Design
+- 🌱 I’m currently improving my System Design skills
+- 🌱 I’m currently improving my problem solving skills
 - 👯 I’m looking to collaborate on Open Source
 
 ### Connect with Me
