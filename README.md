@@ -31,9 +31,9 @@
 - I am passionate about building scalable systems. </br>
 
 ### My Experiences 🙌
-- [Product Lead at Wonderlendhubs](https://wonderlendhubs.com/) - Worked on building scalable no code platform which will help lenders, MSME's for loan managment.
-- [Senior Software Engineer at ViralTech Pvt Ltd](https://www.viraltech.in/) -  Integrated many systems with payment gateway. Built a no code payment collection platform for origanizations like schools, colleges etc.
-- [Software Engineer at XL-Dynamics](https://www.xldynamics.com/) - Worked on loan origination system.
+- [Product Lead at Wonderlendhubs (April-2019 - current)](https://wonderlendhubs.com/) - Worked on building scalable no code platform which will help lenders, MSME's for loan managment.
+- [Senior Software Engineer at ViralTech Pvt Ltd (June 2016 - April-2019)](https://www.viraltech.in/) -  Integrated many systems with payment gateway. Built a no code payment collection platform for origanizations like schools, colleges etc.
+- [Software Engineer at XL-Dynamics(June 2014 - January 2016)](https://www.xldynamics.com/) - Worked on loan origination system.
 
 
 ![Rupesh's github stats](https://github-readme-stats.vercel.app/api?username=rupesh137&show_icons=true&hide_border=true)
