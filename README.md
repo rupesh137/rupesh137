@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://rupeshsharma.hashnode.dev/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
+  <img align="left" width="26px" src="https://drive.google.com/file/d/1lw1zRhXxlfiB8DUd72QlM9WU93UwbxEK/view" />
 </a>
 <a href="https://rupeshsharma137.wordpress.com/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
