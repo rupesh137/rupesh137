@@ -17,9 +17,8 @@
 <a href="https://twitter.com/rupesh1115">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
 <a href="https://rupeshsharma.hashnode.dev/">
-  <img align="left" width="26px" src="https://drive.google.com/file/d/1lw1zRhXxlfiB8DUd72QlM9WU93UwbxEK/view" />
+  <img align="left" width="26px" src="https://img.icons8.com/external-justicon-lineal-justicon/64/000000/external-blog-graphic-design-justicon-lineal-justicon.png" />
 </a>
 <a href="https://rupeshsharma137.wordpress.com/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
