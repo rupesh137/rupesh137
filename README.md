@@ -20,7 +20,7 @@
 <a href="https://rupeshsharma.hashnode.dev/">
   <img align="left" width="26px" src="https://img.icons8.com/external-justicon-lineal-justicon/64/000000/external-blog-graphic-design-justicon-lineal-justicon.png" />
 </a>
-<a href="https://rupeshsharma137.wordpress.com/">
+<a href="https://rupeshsharmatech.wordpress.com/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
 </a>
 <a href="https://resume.creddle.io/resume/1jr7ne3jh5t">
