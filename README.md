@@ -38,7 +38,4 @@
 - [Senior Software Engineer at ViralTech Pvt Ltd (June 2016 - April-2019)](https://www.viraltech.in/) -  Integrated many systems with payment gateway. Built a no code payment collection platform for origanizations like schools, colleges etc.
 - [Software Engineer at XL-Dynamics(June 2014 - January 2016)](https://www.xldynamics.com/) - Worked on loan origination system.
 
-
-![Rupesh's github stats](https://github-readme-stats.vercel.app/api?username=rupesh137&show_icons=true&hide_border=true)
-<br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rupesh137.rupesh137)
